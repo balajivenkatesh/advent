@@ -1,0 +1,13 @@
+Day 1: Website looks cool. Auth via github. Show self as anon_user_number.
+Start writing code in python. Plan to redo in go.
+Setup time was not too much. Virtualenv and vscode.
+Two problems are easy. Need to plan more before writing code.
+Invest in some way to test?
+
+Day 2: Create a ip folder for storing inputs. git init - Initiated a git repo.
+File has first line of comment as problem title.
+File naming to d<number>p<1|2>.pythonIdea to blog.
+Part 2 uses same input, so need to copy first part of p1 for file read into 2d array.
+Both parts simple solution took 30 mins including some setup time.
+Python breaking nested loops, put the nested loops part in a function and return.
+
