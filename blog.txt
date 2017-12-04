@@ -1,3 +1,6 @@
+I started Advent of Code on Day 1: Thursday, November 30.
+Blog started on Day 2: Friday, December 1.
+
 Day 1: Website looks cool. Auth via github. Show self as anon_user_number.
 Start writing code in python. Plan to redo in go.
 Setup time was not too much. Virtualenv and vscode.
@@ -11,3 +14,5 @@ Part 2 uses same input, so need to copy first part of p1 for file read into 2d a
 Both parts simple solution took 30 mins including some setup time.
 Python breaking nested loops, put the nested loops part in a function and return.
 
+Day 3: Doing next day, 2:30 PM. Made note on top of starting dates.
+Took 2 hours. Too long. Need to focus.
