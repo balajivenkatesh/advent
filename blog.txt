@@ -16,3 +16,7 @@ Python breaking nested loops, put the nested loops part in a function and return
 
 Day 3: Doing next day, 2:30 PM. Made note on top of starting dates.
 Took 2 hours. Too long. Need to focus.
+
+Day 4: Doing on day 5 night. Simple string problem.
+
+Day 5:
