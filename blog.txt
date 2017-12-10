@@ -19,4 +19,12 @@ Took 2 hours. Too long. Need to focus.
 
 Day 4: Doing on day 5 night. Simple string problem.
 
-Day 5:
+Day 5: [No entry]
+
+Day 6: [No entry]
+
+Day 7: [No entry]
+
+Day 8: Day 5 and 6 were quick hacks. 7 took longer but again couldn't focus.
+Adding tags from day 7. Regex is good. Can build good regexes. Moving on to day 8.
+Lagging behind by 2 days.
