@@ -27,4 +27,4 @@ Day 7: [No entry]
 
 Day 8: Day 5 and 6 were quick hacks. 7 took longer but again couldn't focus.
 Adding tags from day 7. Regex is good. Can build good regexes. Moving on to day 8.
-Lagging behind by 2 days.
+Lagging behind by 2 days. More regex. And equation parsing.
